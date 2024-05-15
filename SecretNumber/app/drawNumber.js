@@ -1,7 +1,7 @@
 const elementSmallerValue = document.getElementById('smaller-value');
 const elementBiggerValue = document.getElementById('bigger-value');
 
-const smallerValue = 10;
+const smallerValue = 1;
 const biggerValue = 100;
 
 elementSmallerValue.innerHTML = smallerValue;
